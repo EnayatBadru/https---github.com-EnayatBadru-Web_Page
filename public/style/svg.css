@@ -1,0 +1,15 @@
+.pele{
+    fill: var(--cor-pele);
+}
+
+.cabelo{
+    fill: var(--cor-cabelo);
+}
+
+.camisa{
+    fill: var(--cor-camisa);
+}
+
+.borda{
+    fill: var(--cor-borda);
+}

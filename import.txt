@@ -1,0 +1,68 @@
+Deve baixar todas essas dependencias para poder continuar a usar o codigo no prompt da pasta 
+
+//express - codigos abaixo
+npm install express --save
+
+//body-parser - codigos abaixo
+npm install body-parser --save
+
+//express-session - codigos abaixo
+npm install express-session --save
+
+//sequelize - codigos abaixo
+npm install sequelize --save
+
+//mysql2 - codigos abaixo
+npm install mysql2 --save
+
+//bcrypt - codigos abaixo
+npm install bcrypt --save
+
+//ejs - codigos abaixo
+ npm install ejs --save
+
+
+outros caso nao tenha em cima 
+
+/* COMANDOS GERAIS
+
+    npm intall init
+    npm install nodemon -G
+    npm install express --save
+
+*/
+
+/* USO DE BANCO DE DADOS
+
+    npm install --save sequelize
+    npm install --save mysql2
+
+*/
+
+/*  COLOCAR HTML PROGRAMÁVEL
+
+    ex: colocar uma variavel diretamente no codigo html, var nome = "Enayatolah Agibo Badrú", executar essa variavel no html exemplo 
+
+    npm install --save express-handlebars
+
+*/
+
+
+/* RECEBER DADOS DE QUALQUER FORMULARIO
+	
+	npm install --save body-parser
+
+*/
+
+
+/*	TESTE MOCHA - FRAMEWORK
+	
+	npm install --save-dev mocha
+
+*/
+
+/*	CRIPTOGRAFIA bcrypt
+	
+	npm install bcrypt --save
+
+*/
