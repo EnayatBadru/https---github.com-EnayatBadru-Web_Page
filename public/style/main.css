@@ -232,10 +232,18 @@
     letter-spacing: 2px;
 }
 
-
 /* main-principal */
+.main-principal{
+    display: flex;
+    flex-direction: column;
+    gap: .5em;
+}
 
-
+.main--principal{
+    display: flex;
+    flex-direction: column;
+    gap: .5em;
+}
 
 
 /* main-secundaria */

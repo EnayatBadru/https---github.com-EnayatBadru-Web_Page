@@ -30,9 +30,6 @@ const links = document.querySelectorAll('#menu a');
 
 for (let i = 0; i < links.length; i++) {
   links[i].addEventListener('click', function(event) {
-    // Evita o comportamento padrão do link
-    event.preventDefault();
-
     // Remove a classe "active" de todos os links
     for (let j = 0; j < links.length; j++) {
       links[j].classList.remove('active');
